@@ -1,0 +1,5 @@
+Youtube video link :
+https://www.youtube.com/watch?v=1TF1s9ziu-I
+
+Using bluetooth :
+http://www.instructables.com/id/Home-Automation-using-Arduino-Android-Phone/
